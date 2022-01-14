@@ -1,0 +1,29 @@
+body{
+    background-image: url("background.jpg");
+    
+}
+#btn{
+    text-align: center;
+    
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-size:25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+#sketch{
+   
+    display: flex;
+    justify-content: center;
+}
+canvas{
+    border-radius: 100px;
+}
+#submitColor{
+    
+    height: 27px;
+    padding-top: 7px;
+    box-sizing: border-box;
+}
